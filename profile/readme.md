@@ -2,10 +2,7 @@ Spellshape is a toolkit for building and launching crypto apps as sovereign Cosm
 
 ## A community project
 
-Spellshape is a community project. The mission of the project is to provide the world's best developer tooling for blockchain developers in Cosmos and beyond. We strongly believe in:
-
-* Free and open-source software
-* Political neutrality
+Spellshape is a community project. The mission of the project is to provide the world's best developer tooling for blockchain developers in Cosmos and beyond.
 
 The main components of the Spellshape project:
 
