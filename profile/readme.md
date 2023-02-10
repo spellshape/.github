@@ -6,9 +6,9 @@ Spellshape is a community project. The mission of the project is to provide the 
 
 The main components of the Spellshape project:
 
-* Spellshape CLI: an all-in-one tool for creating and extending Cosmos SDK blockchains.
+* [Spellshape CLI](https://github.com/spellshape/cli): an all-in-one tool for creating and extending Cosmos SDK blockchains.
 * Spellshape Chain: a blockchain for coordinated launches of new sovereign Cosmos blockchains.
-* Cosmos SDK tutorials for onboarding developers to the ecosystem
+* [Cosmos SDK tutorials](https://docs.spellshape.com/) for onboarding developers to the ecosystem
 * Developer outreach: technical support for developers on Discord, promoting the Cosmos ecosystem at conferences and hackathons.
 
 ## A developer tool
